@@ -1,9 +1,5 @@
 # Tremor Detection using Adafruit Playground Classic
 
-
-
-<iframe src="https://www.youtube.com/watch?v=cU3IO6Am65o"></iframe>
-<br>
 ## Overview
 This project is aimed at detecting Parkinsonian tremors using the built-in accelerometer on the Adafruit Playground Classic board. Tremors are a common symptom of Parkinson’s disease, typically manifesting at rest with a frequency range of 3 to 6 Hz. This project processes accelerometer data in real-time and analyzes the frequency spectrum to detect tremors. The system provides feedback using visual and audio cues when a tremor is detected.
 
@@ -75,6 +71,10 @@ Update the `displayTremorIntensity()` function to customize the visual feedback.
 
 ### Modify Sampling Rate
 Adjust `samplingFrequency` to control how often the accelerometer data is collected.
+
+### Video Demonstration 
+Here is a simple demonstartion of the project
+<video src='(https://www.youtube.com/watch?v=sYAxcRsYPLs)' width=180/></video>
 
 ## Code Breakdown
 
