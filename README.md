@@ -74,7 +74,7 @@ Adjust `samplingFrequency` to control how often the accelerometer data is collec
 
 ### Video Demonstration 
 Here is a simple demonstartion of the project
-<video src='(https://www.youtube.com/watch?v=sYAxcRsYPLs)' width=180/></video>
+[![Demo CountPages alpha]](https://www.youtube.com/watch?v=sYAxcRsYPLs)
 
 ## Code Breakdown
 
