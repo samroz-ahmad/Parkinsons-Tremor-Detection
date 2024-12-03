@@ -21,7 +21,7 @@ This project is aimed at detecting Parkinsonian tremors using the built-in accel
 1. **Install PlatformIO**: Follow the PlatformIO installation guide to set up your environment.
 2. **Clone the repository**: 
    ```bash
-   git clone https://github.com/your-username/tremor-detection.git
+   git clone https://github.com/samroz-ahmad/tremor-detection.git
 3. **Open the project**: Open the project folder in PlatformIO.
 4. **Upload to board**: Connect your Adafruit Playground Classic board and upload the code using PlatformIO.
 
