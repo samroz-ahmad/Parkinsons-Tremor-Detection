@@ -74,7 +74,11 @@ Adjust `samplingFrequency` to control how often the accelerometer data is collec
 
 ### Video Demonstration 
 Here is a simple demonstartion of the project
-[![Watch the Vedio here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQgsUcyHaOf4dMpTr0M20adRmju_AXaTNH1Q&s)](https://www.youtube.com/watch?v=ek1j272iAmc)
+
+
+https://github.com/user-attachments/assets/523d59d6-e949-4e0d-a70b-5dc086a9a91b
+
+
 
 ## Code Breakdown
 
