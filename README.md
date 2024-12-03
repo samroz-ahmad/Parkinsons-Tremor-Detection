@@ -74,7 +74,13 @@ Adjust `samplingFrequency` to control how often the accelerometer data is collec
 
 ### Video Demonstration 
 Here is a simple demonstartion of the project
-[![Demo CountPages alpha]](https://www.youtube.com/watch?v=sYAxcRsYPLs)
+<div style="position: relative; width: 100%; padding-bottom: 56.25%">
+<iframe src="https://www.youtube.com/watch?v=sYAxcRsYPLs" 
+        title="Web Load Testing with West Wind WebSurge 2" frameborder="0" allowfullscreen
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        style="position: absolute; width: 100%; height: 100%;">
+</iframe>
+</div>
 
 ## Code Breakdown
 
